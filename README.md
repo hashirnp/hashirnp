@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a Freelance Flutter Developer<br>I'm looking to collaborate on Flutter <br>Seeking for help with flutter community<br>Currently learning Backend with NodeJS<br>Feel free to connect
+👨‍💻 Freelance Flutter Developer
+🚀 Open to collaborations on exciting Flutter projects
+🌐 Seeking support and insights from the Flutter community
+📚 Currently exploring Backend development with Node.js
+🤝 Let’s connect and collaborate!
 
 
 ## 🌐 Socials:
